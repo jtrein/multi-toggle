@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jtrein/multi-toggle/issues"
   },
-  "homepage": "https://github.com/jtrein/multi-toggle#readme"
+  "homepage": "https://github.com/jtrein/multi-toggle#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
