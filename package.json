@@ -4,6 +4,7 @@
   "description": "A React multi-toggle component.",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -35,6 +36,7 @@
     "node-sass": "^5.0.0",
     "path": "^0.12.7",
     "sass-loader": "^10.1.0",
+    "typescript": "^4.0.5",
     "webpack": "^5.5.1",
     "webpack-cli": "^4.2.0",
     "webpack-node-externals": "^2.5.2"
