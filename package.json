@@ -1,0 +1,23 @@
+{
+  "name": "multi-toggle",
+  "version": "1.0.0",
+  "description": "A React multi-toggle component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtrein/multi-toggle.git"
+  },
+  "keywords": [
+    "react",
+    "toggle"
+  ],
+  "author": "Jeremiah Trein <jeremiahtrein@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtrein/multi-toggle/issues"
+  },
+  "homepage": "https://github.com/jtrein/multi-toggle#readme"
+}
