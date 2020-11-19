@@ -1,2 +1,2 @@
-# multi-toggle
-A multi-toggle React component.
+# React Multi-Toggle
+A React multi-toggle component.
